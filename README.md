@@ -9,6 +9,3 @@ Projeto de estacionamento voltado para o treinamento de TypeScript que desenvolv
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Linguagem de estilo.
 - [TYPESCRIPT](https://www.typescriptlang.org/) - TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.
 
-## 💻 Site
-
-Para testar ou ver como está ficando acesse: [Estacionamento](...)
